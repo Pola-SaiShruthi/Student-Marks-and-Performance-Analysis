@@ -1,0 +1,801 @@
+Roll No,Name,Class,Exam,Attendance (%),Math,Science,English,History,Memory Score,Stress Level,Study Duration (minutes),Preferred Study Time,Exam Fear
+1,Aditya Reddy,10B,Term 1,60,57,92,33,40,3,10,234,Evening,Yes
+2,Ishita Iyer,9A,Midterm,87,74,50,100,69,2,3,152,Night,No
+3,Arjun Reddy,9B,Term 2,89,89,88,34,51,2,6,260,Night,Yes
+4,Aditya Patel,11B,Final,77,94,86,56,92,1,10,105,Morning,Yes
+5,Sneha Iyer,11B,Unit Test,81,100,41,90,34,3,6,146,Afternoon,No
+6,Sneha Singh,11B,Term 1,91,86,67,85,30,1,8,33,Afternoon,No
+7,Aditi Patel,11B,Midterm,100,85,77,85,79,1,9,283,Morning,Yes
+8,Ishita Mehta,11A,Unit Test,86,39,82,57,76,3,8,148,Morning,No
+9,Krish Patel,10B,Midterm,82,87,68,80,98,3,7,45,Afternoon,Yes
+10,Ishita Verma,9B,Final,99,95,92,51,53,2,7,239,Evening,Yes
+11,Aarav Gupta,9A,Midterm,95,70,60,35,57,4,9,283,Morning,No
+12,Kabir Mehta,11A,Final,69,82,45,40,63,2,3,276,Morning,Yes
+13,Rohan Patel,9B,Term 2,71,37,86,84,56,2,3,221,Night,No
+14,Ananya Reddy,10B,Midterm,60,49,49,83,35,5,2,119,Evening,Yes
+15,Aarav Nair,11A,Unit Test,76,40,32,95,41,3,10,126,Afternoon,Yes
+16,Ananya Reddy,9B,Term 1,61,37,85,90,73,1,7,179,Morning,Yes
+17,Aditi Patel,10B,Midterm,100,88,47,56,36,3,9,241,Evening,Yes
+18,Ananya Verma,9B,Term 1,69,57,61,34,49,1,9,195,Afternoon,Yes
+19,Kabir Gupta,9A,Unit Test,73,69,95,72,85,1,2,43,Morning,No
+20,Sneha Gupta,9B,Midterm,97,32,73,90,89,3,3,227,Afternoon,Yes
+21,Neha Gupta,11B,Unit Test,87,53,49,55,96,2,8,277,Evening,No
+22,Rohan Gupta,11B,Final,68,78,33,37,56,2,5,218,Night,No
+23,Meera Mehta,9A,Term 2,97,48,38,90,61,2,6,274,Morning,No
+24,Saanvi Gupta,9A,Unit Test,77,81,40,87,85,5,9,52,Afternoon,No
+25,Aditya Singh,11B,Final,75,69,85,33,49,3,1,80,Night,No
+26,Arjun Sharma,9B,Final,95,64,74,96,48,2,2,171,Evening,No
+27,Ishita Reddy,11A,Term 1,61,66,49,86,95,2,9,145,Night,Yes
+28,Saanvi Sharma,10A,Term 2,70,62,93,53,54,1,2,176,Afternoon,Yes
+29,Rahul Patel,11A,Term 2,94,75,46,35,56,2,4,115,Evening,No
+30,Rahul Iyer,11B,Term 2,99,68,88,41,96,5,5,111,Afternoon,Yes
+31,Vihaan Reddy,11A,Term 2,72,91,91,75,56,5,1,273,Morning,Yes
+32,Krish Kumar,11B,Unit Test,98,52,66,65,52,4,7,213,Evening,Yes
+33,Vivaan Reddy,11A,Term 2,90,38,32,91,82,5,7,292,Evening,No
+34,Neha Kumar,10B,Midterm,65,67,82,78,57,5,4,208,Morning,No
+35,Meera Kumar,10A,Final,66,71,73,97,88,3,10,254,Afternoon,Yes
+36,Vihaan Iyer,9B,Unit Test,78,36,40,44,88,3,5,177,Morning,Yes
+37,Ananya Mehta,11A,Midterm,88,45,95,100,93,5,3,239,Morning,No
+38,Sneha Singh,9A,Final,94,65,63,74,39,4,8,86,Evening,No
+39,Neha Sharma,9B,Final,84,51,92,61,96,3,9,207,Evening,No
+40,Arjun Singh,9B,Unit Test,92,99,86,91,34,4,2,272,Night,No
+41,Saanvi Sharma,9A,Midterm,67,58,54,69,47,3,7,128,Afternoon,Yes
+42,Kabir Mehta,10A,Unit Test,100,68,35,84,54,2,5,50,Evening,Yes
+43,Sneha Kumar,10B,Unit Test,90,68,43,31,79,3,3,231,Afternoon,Yes
+44,Meera Nair,11A,Unit Test,75,81,67,93,40,2,1,269,Afternoon,Yes
+45,Meera Nair,9A,Term 1,96,68,50,38,82,5,8,219,Morning,Yes
+46,Ananya Iyer,10A,Term 1,79,44,88,62,97,3,4,48,Night,Yes
+47,Neha Verma,10A,Term 1,72,42,67,34,87,5,7,296,Evening,Yes
+48,Ishita Nair,10A,Term 1,60,93,64,83,58,1,8,71,Evening,Yes
+49,Neha Patel,10B,Term 1,76,52,60,58,87,3,1,54,Night,Yes
+50,Aarav Patel,10A,Term 2,100,52,42,34,87,3,4,173,Morning,Yes
+51,Saanvi Patel,9B,Term 1,84,88,72,65,36,2,2,133,Evening,Yes
+52,Diya Sharma,9B,Final,99,99,31,90,72,1,3,289,Morning,No
+53,Arjun Reddy,11A,Term 2,84,64,79,97,65,5,3,93,Morning,No
+54,Neha Verma,9A,Unit Test,68,99,30,75,59,4,1,53,Night,Yes
+55,Aarav Singh,11B,Midterm,91,64,62,79,42,1,9,269,Morning,No
+56,Rohan Gupta,11B,Final,65,64,58,53,36,4,3,43,Evening,No
+57,Kabir Kumar,9B,Term 1,64,49,43,60,93,3,8,105,Morning,No
+58,Sneha Mehta,10B,Midterm,79,91,50,33,62,2,4,77,Afternoon,Yes
+59,Arjun Sharma,10A,Unit Test,98,57,63,72,62,3,4,214,Night,No
+60,Rohan Sharma,10A,Term 1,87,55,86,81,97,3,5,90,Morning,Yes
+61,Rahul Nair,11A,Term 1,82,70,64,74,75,5,2,135,Morning,No
+62,Ananya Kumar,10A,Term 1,83,88,43,87,41,5,8,240,Evening,No
+63,Kabir Nair,9A,Midterm,89,44,79,98,69,5,4,46,Night,Yes
+64,Ishita Kumar,11B,Midterm,85,96,80,41,46,3,1,261,Night,No
+65,Aditya Mehta,9A,Final,83,71,49,40,94,4,7,209,Evening,Yes
+66,Krish Gupta,10A,Unit Test,92,71,72,44,50,4,9,182,Night,No
+67,Diya Reddy,9A,Unit Test,72,74,34,59,31,3,3,62,Night,Yes
+68,Vikram Kumar,9A,Term 2,77,83,67,90,77,1,5,120,Morning,No
+69,Diya Nair,11B,Final,86,66,76,57,52,4,1,238,Afternoon,Yes
+70,Ananya Verma,11A,Term 1,63,54,56,85,59,5,7,36,Evening,Yes
+71,Ishita Iyer,10B,Midterm,74,100,82,31,79,2,1,85,Afternoon,No
+72,Kiran Sharma,9A,Final,94,73,55,86,95,3,1,232,Evening,No
+73,Ishita Singh,10B,Midterm,94,97,63,86,94,1,1,42,Afternoon,Yes
+74,Aarav Iyer,11A,Unit Test,96,90,59,51,50,1,8,129,Afternoon,No
+75,Aditi Gupta,9A,Term 1,78,61,86,69,64,2,7,156,Afternoon,No
+76,Ishita Singh,11B,Midterm,77,53,86,86,76,4,10,218,Evening,No
+77,Krish Nair,10B,Final,95,96,57,95,56,2,6,277,Afternoon,No
+78,Vivaan Kumar,9A,Midterm,80,80,46,65,35,1,7,206,Night,Yes
+79,Arjun Kumar,10B,Unit Test,87,82,95,31,93,2,1,253,Evening,Yes
+80,Aditi Mehta,9B,Midterm,96,32,30,93,33,5,4,214,Afternoon,Yes
+81,Rohan Kumar,11A,Final,93,88,92,98,86,3,2,137,Evening,No
+82,Krish Verma,10A,Final,78,62,78,88,83,5,5,227,Evening,Yes
+83,Sai Kumar,10A,Term 2,87,85,71,63,70,5,7,132,Morning,Yes
+84,Vivaan Mehta,11A,Final,81,61,81,74,93,4,3,162,Evening,No
+85,Kiran Verma,9B,Unit Test,73,41,96,70,51,5,4,147,Evening,Yes
+86,Kabir Kumar,10A,Unit Test,86,63,43,98,55,5,5,253,Night,Yes
+87,Vivaan Nair,11B,Midterm,87,98,79,71,74,5,3,295,Morning,Yes
+88,Kabir Iyer,9A,Final,70,45,55,95,78,3,3,86,Evening,No
+89,Ananya Singh,9A,Unit Test,81,75,68,47,52,2,10,65,Afternoon,Yes
+90,Sneha Kumar,10B,Final,100,34,41,62,38,5,2,77,Evening,Yes
+91,Meera Nair,9B,Final,100,42,96,78,58,3,1,282,Night,No
+92,Ishita Reddy,11A,Final,92,66,75,77,76,3,4,295,Evening,Yes
+93,Ishita Iyer,9A,Final,64,48,48,57,80,3,2,164,Evening,Yes
+94,Aditi Reddy,9A,Term 1,75,49,97,59,78,2,7,298,Morning,Yes
+95,Sneha Gupta,10A,Term 2,83,72,59,96,71,5,8,278,Night,Yes
+96,Vikram Patel,9B,Unit Test,87,51,30,55,33,1,2,209,Morning,Yes
+97,Sai Verma,9B,Unit Test,80,98,58,79,90,4,7,241,Morning,No
+98,Meera Reddy,10A,Unit Test,75,76,51,54,60,5,1,277,Afternoon,No
+99,Aditya Gupta,9A,Final,63,33,32,40,69,2,10,32,Night,Yes
+100,Arjun Sharma,11B,Midterm,100,56,47,45,49,2,10,264,Morning,Yes
+101,Saanvi Mehta,10B,Unit Test,82,78,71,83,84,5,3,269,Night,No
+102,Vikram Kumar,10B,Unit Test,68,56,84,81,78,1,5,273,Night,Yes
+103,Aditya Nair,11B,Term 1,88,37,79,99,96,1,5,255,Evening,Yes
+104,Ishita Verma,11B,Term 1,87,60,77,100,36,4,2,127,Afternoon,No
+105,Kiran Patel,9A,Midterm,98,31,83,95,43,3,7,277,Evening,Yes
+106,Sneha Mehta,10A,Midterm,63,96,33,69,70,2,3,271,Morning,Yes
+107,Rohan Reddy,9A,Final,94,69,78,51,37,3,5,96,Evening,Yes
+108,Ananya Verma,11B,Term 1,82,33,55,42,54,5,6,187,Night,Yes
+109,Arjun Sharma,9B,Unit Test,71,88,90,62,42,5,10,284,Evening,No
+110,Vikram Verma,9B,Term 2,86,41,83,57,55,4,8,157,Afternoon,Yes
+111,Arjun Patel,11B,Term 1,76,82,65,36,68,3,6,253,Evening,No
+112,Rahul Sharma,9A,Term 2,95,82,66,32,86,3,1,203,Morning,No
+113,Diya Nair,9A,Final,60,77,57,32,58,3,9,273,Evening,No
+114,Krish Kumar,10A,Term 2,62,44,99,75,43,4,9,182,Night,Yes
+115,Ishita Verma,11A,Term 2,93,65,87,72,38,4,7,174,Night,Yes
+116,Rohan Patel,11B,Unit Test,86,30,95,99,40,4,8,168,Night,No
+117,Aarav Gupta,10A,Final,64,62,58,45,95,2,10,46,Night,No
+118,Rohan Patel,9B,Final,69,36,55,91,45,2,5,204,Afternoon,Yes
+119,Aditi Singh,9A,Unit Test,80,49,83,95,87,4,3,203,Night,Yes
+120,Arjun Verma,9B,Term 2,89,42,94,89,95,2,4,93,Afternoon,Yes
+121,Ishita Mehta,10A,Final,65,43,95,69,54,3,1,240,Night,Yes
+122,Vikram Sharma,10A,Final,92,96,93,52,56,2,9,259,Afternoon,No
+123,Neha Verma,10A,Midterm,65,54,94,98,81,1,10,143,Afternoon,Yes
+124,Rahul Kumar,10A,Term 1,97,31,78,64,48,5,7,152,Night,No
+125,Vivaan Singh,11B,Midterm,95,70,79,71,62,3,3,200,Afternoon,No
+126,Aditi Nair,11B,Final,80,96,52,95,93,1,5,210,Evening,No
+127,Rahul Nair,10B,Midterm,84,36,65,49,52,1,3,62,Morning,No
+128,Meera Sharma,9A,Term 2,90,88,84,93,90,3,5,156,Night,Yes
+129,Meera Iyer,9B,Midterm,69,88,87,53,51,3,6,212,Afternoon,No
+130,Aditi Reddy,11A,Midterm,65,49,88,90,73,1,3,266,Afternoon,Yes
+131,Krish Mehta,9B,Midterm,67,32,51,83,53,3,7,213,Afternoon,No
+132,Aditya Nair,9A,Term 2,99,94,94,35,91,1,4,72,Night,No
+133,Vivaan Gupta,11A,Midterm,90,68,95,72,97,4,7,288,Morning,No
+134,Aditya Mehta,10A,Term 2,68,50,93,44,35,5,5,208,Morning,Yes
+135,Meera Sharma,9A,Midterm,87,51,94,44,51,3,7,133,Night,No
+136,Vikram Sharma,10A,Term 1,69,62,32,37,34,5,6,86,Morning,Yes
+137,Sai Verma,11B,Final,89,43,79,74,38,1,4,177,Evening,Yes
+138,Krish Patel,11A,Final,63,39,95,53,64,4,7,220,Morning,Yes
+139,Krish Mehta,11B,Final,87,41,68,97,48,4,10,40,Evening,Yes
+140,Aarav Verma,11B,Term 1,93,97,37,99,67,3,9,207,Morning,No
+141,Kabir Patel,10B,Midterm,91,51,35,69,63,2,3,249,Morning,Yes
+142,Sai Singh,11A,Final,66,75,99,82,89,5,7,182,Morning,Yes
+143,Ananya Singh,11B,Midterm,77,61,66,85,52,1,10,58,Afternoon,No
+144,Vihaan Verma,9A,Unit Test,96,35,95,43,41,3,8,143,Afternoon,Yes
+145,Krish Sharma,11B,Term 1,76,55,66,50,48,2,10,259,Morning,Yes
+146,Sneha Patel,10B,Term 1,96,34,77,86,55,3,10,130,Night,Yes
+147,Vihaan Patel,9A,Unit Test,76,99,31,81,62,5,10,79,Afternoon,Yes
+148,Arjun Nair,9B,Term 1,80,81,71,41,82,5,8,178,Evening,Yes
+149,Aditya Verma,10B,Unit Test,69,87,38,60,48,5,6,72,Afternoon,Yes
+150,Aarav Patel,10B,Term 2,60,90,83,48,86,4,8,222,Evening,Yes
+151,Aditi Singh,10A,Term 2,74,83,84,39,88,3,1,168,Afternoon,No
+152,Vihaan Patel,11B,Term 2,69,47,72,70,75,1,2,245,Afternoon,Yes
+153,Aditya Gupta,9B,Midterm,100,67,85,60,51,2,1,128,Night,No
+154,Sneha Patel,9A,Term 2,71,93,100,52,47,1,6,135,Morning,No
+155,Sai Nair,10A,Midterm,74,87,32,96,98,1,10,50,Night,No
+156,Diya Reddy,9A,Final,91,38,50,50,37,2,2,254,Afternoon,No
+157,Ananya Verma,9B,Term 2,61,31,100,49,76,3,7,141,Morning,Yes
+158,Vihaan Patel,10B,Term 1,81,97,61,33,62,4,7,281,Evening,No
+159,Aditya Nair,9A,Term 2,60,62,87,52,57,4,9,226,Evening,Yes
+160,Sneha Gupta,10A,Unit Test,98,65,72,100,31,1,2,168,Night,No
+161,Rohan Reddy,11B,Term 1,93,58,33,32,56,1,10,174,Evening,No
+162,Aditi Gupta,9B,Final,87,69,33,46,79,4,5,56,Morning,No
+163,Arjun Mehta,10A,Term 2,86,77,46,96,72,4,5,50,Night,No
+164,Sneha Nair,10A,Term 1,77,52,81,50,92,1,9,231,Evening,No
+165,Aditi Singh,9B,Final,65,35,70,55,84,1,3,130,Evening,Yes
+166,Kiran Patel,9A,Midterm,98,90,68,40,77,1,6,79,Night,No
+167,Diya Gupta,9A,Term 1,62,89,92,59,44,3,3,126,Evening,Yes
+168,Vihaan Iyer,10A,Term 2,85,66,81,58,65,2,3,212,Night,No
+169,Kiran Gupta,11B,Term 2,76,36,69,63,36,1,1,193,Night,Yes
+170,Diya Patel,11A,Term 1,92,86,66,31,87,1,2,143,Evening,No
+171,Kabir Nair,11A,Term 2,77,44,86,62,31,5,2,117,Morning,Yes
+172,Sai Mehta,11B,Final,92,87,75,76,83,5,3,262,Evening,Yes
+173,Neha Iyer,9A,Unit Test,79,66,68,90,69,1,9,70,Night,No
+174,Aditya Verma,11A,Unit Test,74,83,55,32,48,4,7,47,Morning,No
+175,Vikram Reddy,9B,Final,95,34,79,38,42,2,7,51,Afternoon,No
+176,Vihaan Verma,9B,Term 2,65,37,89,47,37,4,4,195,Night,No
+177,Sneha Sharma,9B,Term 1,61,47,41,52,78,5,1,48,Morning,Yes
+178,Arjun Nair,11B,Midterm,68,88,78,65,66,4,7,160,Evening,Yes
+179,Ananya Iyer,11A,Final,80,37,50,72,97,4,1,184,Evening,No
+180,Saanvi Mehta,10B,Unit Test,62,51,45,55,83,5,9,264,Afternoon,Yes
+181,Vivaan Gupta,11A,Term 2,91,31,62,74,89,5,6,113,Evening,Yes
+182,Vivaan Gupta,9A,Term 2,64,64,44,93,51,2,8,176,Afternoon,No
+183,Meera Reddy,10B,Final,84,59,44,58,38,3,1,122,Afternoon,Yes
+184,Ishita Verma,11A,Unit Test,79,59,55,39,54,3,3,297,Afternoon,Yes
+185,Vikram Verma,9A,Unit Test,71,80,47,57,58,1,10,138,Morning,No
+186,Arjun Singh,9B,Final,70,71,42,40,44,4,8,98,Evening,No
+187,Krish Iyer,11B,Midterm,63,34,60,32,45,2,7,49,Night,No
+188,Rahul Verma,11B,Unit Test,82,100,52,48,65,5,6,162,Evening,Yes
+189,Kiran Kumar,11A,Unit Test,72,97,41,86,60,2,2,61,Evening,No
+190,Saanvi Kumar,10B,Term 2,84,97,94,35,87,4,2,253,Afternoon,No
+191,Vihaan Patel,9A,Midterm,75,94,46,98,58,2,10,96,Night,No
+192,Aditya Reddy,10B,Midterm,84,99,55,78,34,2,6,240,Night,No
+193,Saanvi Singh,10B,Final,94,52,33,78,80,1,7,278,Night,Yes
+194,Saanvi Gupta,9A,Midterm,75,63,50,56,81,5,4,179,Afternoon,Yes
+195,Kabir Patel,9A,Unit Test,94,39,70,30,74,5,5,261,Night,No
+196,Rahul Kumar,11A,Term 2,81,57,42,74,84,3,10,204,Afternoon,Yes
+197,Saanvi Nair,9A,Midterm,88,38,35,47,38,1,5,51,Morning,No
+198,Vihaan Mehta,11B,Midterm,67,64,68,31,38,3,9,260,Evening,Yes
+199,Diya Reddy,10A,Midterm,82,41,65,35,42,5,1,141,Morning,No
+200,Ishita Mehta,11B,Final,84,91,77,70,68,5,7,218,Evening,No
+201,Arjun Nair,10A,Term 2,75,96,70,91,63,3,2,47,Afternoon,Yes
+202,Aditi Kumar,10A,Unit Test,62,90,31,68,94,3,1,167,Night,No
+203,Ananya Kumar,9B,Term 2,85,62,91,55,49,4,10,236,Afternoon,No
+204,Aditi Singh,9A,Term 2,89,93,76,60,86,5,6,98,Evening,No
+205,Arjun Gupta,11B,Unit Test,69,100,48,78,45,3,7,270,Morning,Yes
+206,Kiran Sharma,10B,Term 1,69,63,99,45,88,5,6,141,Night,Yes
+207,Sneha Gupta,11B,Unit Test,97,60,68,97,76,2,1,245,Evening,Yes
+208,Ishita Iyer,10A,Midterm,72,64,41,73,63,3,5,183,Morning,Yes
+209,Saanvi Verma,9A,Midterm,96,96,44,79,88,4,1,54,Evening,No
+210,Vihaan Mehta,11A,Term 1,73,80,95,72,86,3,7,187,Afternoon,No
+211,Ishita Singh,9A,Midterm,84,69,79,42,30,4,3,176,Afternoon,Yes
+212,Ishita Gupta,11B,Unit Test,75,59,62,74,84,4,5,299,Night,Yes
+213,Diya Singh,9B,Final,85,46,58,95,49,1,10,30,Night,Yes
+214,Kiran Patel,10B,Unit Test,87,69,30,51,73,3,10,155,Morning,No
+215,Ananya Patel,11B,Unit Test,60,35,68,30,74,5,10,83,Morning,No
+216,Ishita Mehta,9B,Final,79,84,40,99,57,4,3,37,Night,No
+217,Aditi Kumar,10A,Term 2,88,72,42,94,68,2,8,182,Morning,No
+218,Rahul Mehta,11A,Term 2,75,88,85,31,77,4,4,64,Evening,Yes
+219,Kabir Reddy,9B,Final,70,53,99,34,53,5,5,257,Afternoon,Yes
+220,Ishita Iyer,10B,Midterm,73,52,51,84,56,3,4,245,Afternoon,Yes
+221,Ishita Nair,9B,Final,69,67,85,69,50,3,10,279,Afternoon,Yes
+222,Vivaan Singh,10A,Term 2,62,74,49,100,32,3,4,201,Afternoon,Yes
+223,Sai Kumar,11B,Final,67,56,77,98,50,5,2,158,Night,Yes
+224,Sai Mehta,9B,Final,71,90,56,64,34,4,4,89,Night,No
+225,Ananya Mehta,9B,Unit Test,61,84,62,90,77,5,8,199,Night,Yes
+226,Saanvi Mehta,11A,Term 1,92,89,43,90,50,3,5,84,Night,No
+227,Vihaan Sharma,10B,Term 1,80,99,74,90,92,2,3,118,Evening,No
+228,Krish Verma,9B,Midterm,67,61,88,85,66,1,9,135,Night,Yes
+229,Vihaan Singh,9B,Final,63,32,50,51,87,2,3,167,Afternoon,No
+230,Arjun Nair,11A,Midterm,64,68,84,43,88,2,5,62,Morning,No
+231,Aditya Sharma,10B,Midterm,78,31,38,81,79,1,7,246,Evening,No
+232,Arjun Singh,9B,Final,89,77,89,81,37,1,5,247,Afternoon,Yes
+233,Arjun Nair,9A,Term 1,82,48,56,91,41,5,1,134,Night,Yes
+234,Vikram Sharma,9B,Unit Test,89,85,84,56,75,1,5,166,Evening,No
+235,Ishita Singh,10B,Term 2,92,67,54,45,57,4,10,226,Evening,Yes
+236,Ishita Sharma,10B,Term 2,93,44,87,37,86,4,7,114,Evening,No
+237,Aarav Iyer,11A,Term 2,93,84,56,58,95,1,9,184,Night,No
+238,Vikram Gupta,11A,Unit Test,73,57,35,87,74,2,4,274,Morning,No
+239,Vivaan Nair,9A,Term 1,98,81,34,34,70,5,9,179,Morning,No
+240,Saanvi Patel,9A,Midterm,63,35,79,82,73,1,7,178,Evening,Yes
+241,Kiran Nair,9B,Midterm,70,91,77,65,67,4,2,298,Evening,Yes
+242,Aditi Gupta,11A,Midterm,62,46,86,39,96,3,8,252,Night,Yes
+243,Kiran Verma,11B,Midterm,89,91,95,57,58,2,6,74,Evening,Yes
+244,Aditi Nair,9B,Final,97,68,45,46,78,5,8,111,Afternoon,Yes
+245,Kabir Mehta,9B,Unit Test,89,100,89,31,74,5,8,171,Morning,No
+246,Kabir Singh,11A,Term 1,87,50,50,48,80,4,2,86,Afternoon,No
+247,Rahul Mehta,11B,Final,100,30,41,94,78,5,8,61,Night,No
+248,Neha Gupta,9B,Midterm,76,71,86,51,98,5,2,291,Afternoon,No
+249,Ishita Nair,11B,Unit Test,67,64,48,56,76,2,6,163,Night,Yes
+250,Arjun Nair,11A,Term 2,60,68,45,50,83,5,6,76,Evening,No
+251,Neha Gupta,11B,Unit Test,77,86,35,90,53,5,1,175,Afternoon,Yes
+252,Meera Reddy,10A,Unit Test,60,63,73,39,35,5,8,294,Morning,Yes
+253,Vikram Patel,10A,Term 1,61,80,57,57,87,5,1,135,Morning,No
+254,Aditi Iyer,11B,Term 2,92,67,60,75,94,5,7,248,Afternoon,No
+255,Aditi Patel,10A,Term 2,87,41,46,73,89,4,10,159,Morning,No
+256,Diya Singh,9B,Term 2,74,93,38,34,56,4,2,225,Evening,Yes
+257,Aditi Sharma,10B,Term 1,77,75,35,58,72,4,10,270,Night,No
+258,Kabir Nair,11B,Term 1,86,33,97,85,81,4,5,171,Evening,No
+259,Aditi Singh,10A,Final,99,94,86,44,31,1,3,205,Morning,Yes
+260,Meera Nair,9B,Midterm,67,34,49,85,35,4,7,202,Evening,No
+261,Kiran Nair,9B,Term 1,80,99,85,83,55,1,4,113,Evening,No
+262,Ishita Sharma,11B,Term 1,73,79,80,86,83,1,6,152,Night,Yes
+263,Aarav Gupta,11A,Unit Test,75,30,81,54,71,4,1,245,Afternoon,Yes
+264,Diya Patel,10A,Term 1,70,54,34,64,63,3,1,293,Night,Yes
+265,Vihaan Kumar,10B,Term 2,80,40,99,60,100,3,6,55,Evening,No
+266,Vikram Sharma,10B,Term 2,94,79,85,72,47,5,9,57,Afternoon,No
+267,Saanvi Kumar,9A,Unit Test,86,53,47,70,94,3,2,62,Night,Yes
+268,Meera Patel,10A,Term 2,99,73,38,81,32,5,1,154,Night,Yes
+269,Vivaan Reddy,9A,Midterm,73,68,53,57,80,4,10,71,Afternoon,Yes
+270,Vikram Gupta,9B,Midterm,84,75,66,44,49,4,7,36,Evening,No
+271,Rahul Gupta,9B,Term 2,86,57,63,74,58,4,9,35,Evening,No
+272,Kiran Kumar,9A,Term 2,82,64,90,37,88,2,1,291,Morning,No
+273,Vihaan Mehta,11A,Midterm,64,48,84,75,91,4,10,300,Evening,Yes
+274,Rohan Iyer,11A,Term 1,63,89,53,61,97,3,4,89,Morning,Yes
+275,Ishita Sharma,11A,Unit Test,79,44,48,84,32,5,9,188,Night,No
+276,Sneha Kumar,11B,Term 2,68,32,64,72,49,5,3,89,Afternoon,Yes
+277,Aditi Kumar,11B,Term 2,75,59,85,47,81,1,8,184,Night,Yes
+278,Ishita Iyer,10B,Final,87,74,83,97,62,4,6,130,Morning,Yes
+279,Sneha Reddy,10A,Final,90,82,75,36,40,4,6,254,Evening,Yes
+280,Kabir Singh,11A,Midterm,68,34,75,62,33,3,3,235,Afternoon,No
+281,Rohan Sharma,11A,Unit Test,92,57,59,46,93,3,4,111,Afternoon,No
+282,Ananya Singh,9B,Final,88,70,38,49,41,3,1,49,Evening,No
+283,Kabir Kumar,9B,Midterm,95,31,87,47,73,1,9,145,Afternoon,No
+284,Neha Iyer,11B,Unit Test,97,95,34,100,91,2,1,257,Morning,No
+285,Aditya Reddy,11B,Term 2,100,35,80,40,98,4,2,45,Night,Yes
+286,Vivaan Patel,11B,Term 1,63,43,83,85,91,5,7,266,Night,No
+287,Rahul Gupta,9B,Term 2,63,56,59,94,93,1,5,198,Night,No
+288,Ishita Kumar,11B,Final,100,45,94,38,43,1,1,291,Evening,No
+289,Aarav Verma,11A,Term 2,77,91,89,75,98,5,9,53,Evening,Yes
+290,Ananya Gupta,11A,Unit Test,96,64,75,61,56,3,7,214,Morning,No
+291,Krish Kumar,9B,Term 2,94,46,57,48,79,2,7,51,Evening,Yes
+292,Rahul Iyer,10B,Midterm,70,38,55,87,51,1,2,67,Evening,No
+293,Neha Mehta,11B,Final,70,68,60,75,86,1,5,274,Afternoon,No
+294,Aditi Iyer,9B,Term 1,78,46,49,95,71,4,2,170,Afternoon,No
+295,Rohan Verma,11B,Final,66,55,50,60,80,4,9,212,Afternoon,No
+296,Arjun Patel,10B,Final,87,73,97,47,89,1,2,34,Night,Yes
+297,Kiran Sharma,10B,Final,66,99,61,50,97,3,2,148,Morning,Yes
+298,Diya Mehta,11A,Term 1,99,51,64,48,88,1,7,64,Afternoon,Yes
+299,Kabir Sharma,11B,Unit Test,83,82,73,37,95,5,8,232,Morning,No
+300,Aditi Patel,10B,Term 1,66,47,81,86,47,3,4,217,Evening,Yes
+301,Ananya Patel,9A,Midterm,74,45,34,45,53,4,4,198,Afternoon,No
+302,Saanvi Sharma,11B,Term 2,77,86,50,94,53,4,4,92,Morning,Yes
+303,Ananya Verma,9B,Term 2,100,60,43,34,46,3,9,223,Evening,Yes
+304,Saanvi Verma,11A,Term 2,98,80,56,70,30,3,3,92,Night,Yes
+305,Vivaan Patel,11A,Final,73,53,95,49,47,5,10,144,Night,Yes
+306,Sneha Verma,9B,Term 2,88,30,43,54,36,1,2,156,Evening,No
+307,Vikram Verma,10A,Midterm,83,44,76,53,88,1,8,181,Morning,No
+308,Vikram Sharma,11B,Unit Test,94,64,53,88,71,5,1,163,Evening,No
+309,Rohan Verma,9B,Term 1,73,81,68,42,52,3,4,295,Night,Yes
+310,Vikram Verma,11B,Final,96,41,94,68,58,3,10,235,Morning,Yes
+311,Vikram Verma,10B,Term 1,72,34,88,63,92,2,2,238,Night,No
+312,Meera Reddy,9B,Unit Test,98,85,42,78,33,3,4,215,Evening,No
+313,Rahul Singh,10B,Unit Test,91,32,59,49,82,1,9,67,Evening,Yes
+314,Saanvi Reddy,9B,Final,77,76,55,37,39,1,6,164,Evening,Yes
+315,Vikram Verma,11A,Midterm,91,89,66,95,55,4,9,54,Afternoon,No
+316,Krish Patel,9A,Term 2,75,80,64,30,67,2,3,37,Morning,Yes
+317,Ananya Gupta,11A,Unit Test,86,57,51,52,60,4,7,30,Evening,Yes
+318,Ishita Reddy,9A,Final,94,95,38,61,97,4,7,222,Morning,No
+319,Sai Mehta,10A,Final,87,49,88,86,89,4,2,284,Night,Yes
+320,Vihaan Gupta,9B,Term 1,72,98,86,69,81,5,2,136,Night,No
+321,Rohan Singh,10A,Midterm,98,89,42,79,47,4,7,36,Evening,Yes
+322,Vikram Reddy,11B,Final,97,69,80,78,78,1,8,61,Afternoon,Yes
+323,Arjun Kumar,10B,Final,81,81,58,96,31,4,9,184,Afternoon,No
+324,Vivaan Patel,10A,Term 1,95,53,87,54,90,5,3,83,Morning,No
+325,Aditya Mehta,11A,Unit Test,78,81,74,38,68,1,6,135,Morning,No
+326,Ishita Patel,11A,Final,79,36,63,48,79,1,2,67,Night,Yes
+327,Vihaan Verma,11B,Unit Test,65,41,76,88,60,1,6,259,Afternoon,No
+328,Saanvi Sharma,11B,Term 1,90,34,84,43,99,1,4,147,Afternoon,No
+329,Sneha Nair,10A,Unit Test,84,48,50,51,70,5,10,168,Afternoon,Yes
+330,Ishita Singh,9B,Final,71,85,58,100,45,5,1,127,Afternoon,No
+331,Arjun Kumar,10A,Term 1,90,32,86,41,94,1,8,33,Evening,Yes
+332,Krish Reddy,11B,Term 2,100,60,63,97,55,3,4,99,Afternoon,No
+333,Vikram Sharma,10A,Midterm,78,58,84,60,48,4,5,272,Afternoon,No
+334,Meera Gupta,10B,Term 1,71,88,36,65,58,5,9,229,Evening,Yes
+335,Diya Sharma,11B,Final,84,71,56,42,36,2,4,77,Night,Yes
+336,Arjun Iyer,9B,Final,93,64,62,86,72,3,9,53,Night,Yes
+337,Ananya Singh,9A,Term 1,77,75,60,94,89,2,3,90,Evening,No
+338,Ananya Mehta,11A,Midterm,85,39,55,42,87,4,8,153,Afternoon,No
+339,Ananya Reddy,10B,Term 2,93,53,39,89,43,3,6,268,Afternoon,Yes
+340,Rahul Iyer,9A,Final,65,37,93,99,70,5,5,124,Morning,No
+341,Vivaan Kumar,11A,Final,80,78,51,34,72,5,7,261,Afternoon,Yes
+342,Diya Sharma,11A,Term 1,72,83,95,58,69,4,6,120,Evening,No
+343,Aditya Verma,11B,Term 2,61,60,35,80,100,2,1,213,Evening,Yes
+344,Neha Singh,10A,Midterm,80,45,61,94,80,1,1,223,Evening,Yes
+345,Vikram Reddy,9A,Final,87,89,59,75,81,5,10,46,Morning,No
+346,Rahul Mehta,11A,Midterm,76,92,57,77,51,2,1,270,Afternoon,No
+347,Aarav Reddy,11B,Final,61,42,99,68,93,4,1,125,Evening,Yes
+348,Aarav Verma,11B,Final,74,96,57,50,72,5,6,131,Morning,No
+349,Vivaan Gupta,10A,Term 1,97,75,55,33,34,1,2,129,Afternoon,No
+350,Rahul Gupta,9B,Term 1,67,99,41,36,36,1,9,32,Night,Yes
+351,Diya Verma,10A,Unit Test,78,68,32,83,79,4,5,246,Night,Yes
+352,Rahul Patel,11B,Final,75,64,69,89,90,3,6,200,Morning,No
+353,Krish Gupta,9A,Term 2,84,48,40,76,98,5,7,166,Morning,No
+354,Vikram Nair,10B,Term 1,99,65,94,40,76,2,10,109,Evening,Yes
+355,Meera Patel,9B,Midterm,76,90,76,94,38,3,7,160,Morning,Yes
+356,Vivaan Singh,9A,Term 1,95,36,31,83,81,3,4,219,Afternoon,No
+357,Meera Reddy,11B,Unit Test,80,70,68,58,94,2,4,207,Morning,Yes
+358,Meera Verma,10B,Term 1,90,84,72,61,45,3,8,195,Evening,Yes
+359,Aarav Iyer,11B,Term 2,71,64,66,76,91,4,2,211,Night,No
+360,Neha Kumar,11A,Term 1,70,60,48,58,92,3,1,222,Evening,Yes
+361,Vikram Iyer,10B,Final,75,94,76,72,58,3,3,142,Evening,Yes
+362,Saanvi Kumar,9B,Term 1,83,85,60,49,70,3,6,228,Afternoon,No
+363,Ishita Gupta,10B,Midterm,85,30,49,45,76,5,10,284,Evening,No
+364,Arjun Reddy,10A,Term 2,83,87,54,99,32,3,3,197,Night,Yes
+365,Vivaan Gupta,11B,Term 2,87,81,79,41,98,5,9,159,Evening,Yes
+366,Rohan Reddy,10A,Final,78,98,35,31,64,3,9,44,Afternoon,Yes
+367,Aarav Mehta,10B,Term 2,92,32,98,68,40,5,8,177,Morning,No
+368,Ishita Kumar,11A,Midterm,72,72,54,31,72,3,3,131,Evening,Yes
+369,Aarav Verma,11A,Term 1,97,60,83,56,71,1,2,233,Morning,Yes
+370,Rohan Patel,9A,Unit Test,67,43,30,63,41,4,9,200,Afternoon,No
+371,Kabir Iyer,9B,Term 1,88,73,42,94,82,3,6,141,Evening,No
+372,Sai Kumar,11A,Final,69,51,71,41,77,3,4,102,Night,Yes
+373,Sai Patel,9A,Term 1,63,30,93,34,100,2,7,101,Evening,No
+374,Vikram Kumar,10B,Midterm,65,47,46,88,53,4,5,48,Afternoon,Yes
+375,Vihaan Singh,9A,Term 2,93,52,58,97,73,4,9,109,Morning,No
+376,Vikram Gupta,9A,Midterm,88,58,73,60,98,4,3,55,Night,No
+377,Krish Sharma,10A,Midterm,96,43,69,71,98,4,9,50,Night,No
+378,Aditi Verma,9A,Final,94,78,50,39,83,3,6,230,Night,Yes
+379,Vivaan Nair,9B,Term 2,69,81,70,54,87,3,1,289,Evening,Yes
+380,Vivaan Kumar,11B,Term 2,90,90,94,33,46,2,6,241,Afternoon,No
+381,Ishita Reddy,9B,Midterm,83,90,44,73,78,4,5,282,Afternoon,No
+382,Diya Patel,11A,Final,88,94,48,67,39,5,8,234,Morning,No
+383,Kiran Verma,11A,Term 1,72,94,74,85,79,2,5,73,Afternoon,Yes
+384,Vikram Reddy,11B,Unit Test,72,96,75,62,74,3,10,181,Night,No
+385,Krish Patel,11A,Midterm,95,73,78,57,54,5,9,219,Afternoon,Yes
+386,Sai Sharma,11B,Unit Test,62,70,51,80,97,5,4,79,Evening,Yes
+387,Vihaan Kumar,11A,Term 2,88,39,65,99,72,4,7,219,Night,No
+388,Vivaan Mehta,10B,Unit Test,63,32,47,36,47,5,1,197,Night,Yes
+389,Kabir Patel,9B,Final,75,56,57,55,63,4,2,136,Morning,Yes
+390,Sai Reddy,10B,Term 1,68,79,35,48,36,5,9,98,Afternoon,No
+391,Arjun Gupta,11A,Term 1,96,84,79,80,100,4,8,120,Evening,Yes
+392,Krish Verma,10B,Final,86,99,54,75,56,1,6,76,Afternoon,No
+393,Aditi Iyer,9A,Final,69,67,90,89,78,5,6,118,Night,Yes
+394,Aarav Kumar,11B,Final,72,56,30,94,51,1,4,100,Morning,Yes
+395,Meera Kumar,10B,Term 1,92,48,87,44,65,2,6,150,Afternoon,Yes
+396,Krish Nair,11A,Midterm,92,91,37,83,31,5,2,185,Evening,No
+397,Ishita Verma,9B,Term 1,78,92,99,81,88,1,1,137,Night,No
+398,Vikram Gupta,9B,Midterm,72,74,60,89,82,2,7,272,Evening,Yes
+399,Sai Nair,9B,Final,99,43,49,57,33,4,8,220,Evening,No
+400,Rahul Kumar,9B,Final,67,41,35,84,83,1,3,80,Morning,No
+401,Vihaan Singh,10A,Midterm,84,91,74,67,76,1,1,57,Night,Yes
+402,Aditya Reddy,10B,Unit Test,84,30,68,50,47,2,6,217,Afternoon,No
+403,Vihaan Mehta,11A,Final,99,90,67,32,52,2,7,68,Morning,No
+404,Neha Sharma,9B,Unit Test,64,33,91,91,68,1,1,141,Morning,No
+405,Ananya Iyer,9A,Final,86,63,95,41,84,1,4,193,Afternoon,No
+406,Ishita Verma,9A,Midterm,62,82,79,48,45,5,2,64,Afternoon,Yes
+407,Ananya Nair,10B,Final,80,38,42,37,50,5,6,201,Night,Yes
+408,Sai Singh,10A,Final,91,64,81,37,67,5,4,165,Morning,No
+409,Vikram Sharma,10B,Unit Test,83,99,67,37,31,4,4,156,Evening,Yes
+410,Ishita Gupta,9B,Term 1,99,73,38,83,87,3,3,279,Evening,No
+411,Aditya Sharma,11B,Unit Test,76,76,67,40,75,2,10,152,Night,No
+412,Aditya Reddy,10B,Term 2,63,70,73,32,50,3,2,199,Evening,No
+413,Vihaan Singh,9A,Final,80,60,86,98,57,1,7,35,Morning,No
+414,Saanvi Mehta,10A,Term 1,60,37,49,89,65,1,8,234,Afternoon,Yes
+415,Sneha Gupta,9B,Final,89,39,73,75,83,1,9,173,Morning,No
+416,Sneha Nair,10B,Term 1,91,86,30,68,76,5,10,297,Night,Yes
+417,Vikram Patel,11A,Term 2,77,71,65,93,47,3,4,105,Night,Yes
+418,Diya Kumar,10B,Unit Test,85,51,38,35,74,2,1,177,Afternoon,No
+419,Aditya Sharma,9B,Unit Test,98,97,90,74,53,3,8,56,Morning,Yes
+420,Krish Verma,11B,Final,82,79,31,72,34,4,7,290,Night,No
+421,Vihaan Gupta,11B,Term 1,68,30,78,97,60,3,7,74,Night,No
+422,Aditi Iyer,10A,Unit Test,85,56,33,95,60,2,2,184,Evening,No
+423,Sneha Reddy,10A,Term 1,83,85,88,41,78,4,7,246,Morning,No
+424,Diya Mehta,10B,Term 1,75,41,80,59,84,1,4,263,Night,No
+425,Ishita Patel,9B,Final,78,53,71,60,100,2,4,254,Evening,No
+426,Aarav Patel,10B,Term 1,91,76,67,64,56,3,2,69,Evening,Yes
+427,Rahul Sharma,11A,Term 1,71,55,43,81,84,4,6,109,Evening,No
+428,Sai Reddy,9B,Final,100,91,90,58,83,2,3,142,Night,No
+429,Vikram Iyer,9B,Term 2,84,67,78,31,100,3,6,52,Night,Yes
+430,Sneha Reddy,10B,Midterm,84,62,71,90,91,5,4,126,Evening,Yes
+431,Vikram Singh,11A,Midterm,74,53,94,89,39,1,5,299,Night,No
+432,Krish Iyer,9A,Final,82,41,97,40,54,4,2,236,Morning,Yes
+433,Neha Iyer,11B,Term 1,73,97,100,69,51,1,5,248,Night,Yes
+434,Vivaan Gupta,10A,Term 1,62,37,41,90,53,1,5,148,Night,No
+435,Rahul Patel,10B,Term 1,87,44,38,52,83,3,5,274,Morning,No
+436,Sneha Patel,11B,Midterm,73,80,55,47,51,1,9,31,Morning,No
+437,Kiran Gupta,10A,Term 2,82,90,67,92,35,5,9,108,Afternoon,Yes
+438,Rohan Nair,10A,Final,83,49,75,76,61,4,3,77,Evening,Yes
+439,Vivaan Patel,11B,Term 1,81,49,34,51,50,3,3,86,Morning,No
+440,Sneha Nair,10B,Term 2,61,82,47,30,59,2,4,295,Evening,Yes
+441,Rohan Iyer,10A,Term 1,89,63,97,62,77,2,3,257,Evening,No
+442,Meera Verma,9A,Term 1,72,57,45,99,82,1,2,59,Evening,No
+443,Vikram Singh,9A,Term 1,88,37,63,46,52,1,10,49,Night,Yes
+444,Kabir Verma,9B,Unit Test,65,53,41,76,63,4,8,40,Evening,No
+445,Saanvi Patel,9B,Term 1,66,70,63,33,33,3,1,211,Afternoon,Yes
+446,Kiran Reddy,9A,Midterm,71,76,94,95,64,4,6,273,Morning,Yes
+447,Rahul Patel,9B,Unit Test,88,83,68,44,57,5,4,207,Night,Yes
+448,Diya Reddy,11A,Unit Test,68,91,75,47,50,3,2,193,Afternoon,No
+449,Neha Verma,11B,Term 1,75,75,41,33,73,1,10,211,Evening,No
+450,Rahul Gupta,10B,Unit Test,90,65,69,41,77,4,10,106,Evening,No
+451,Rohan Singh,9B,Term 1,99,36,70,45,50,3,3,268,Night,Yes
+452,Aarav Sharma,11A,Term 2,73,46,95,63,59,5,9,194,Afternoon,No
+453,Sai Patel,10A,Term 2,93,63,42,51,56,3,9,254,Morning,No
+454,Vikram Verma,11B,Term 2,89,83,81,79,90,1,5,111,Night,No
+455,Rahul Kumar,10B,Unit Test,78,49,90,57,33,5,8,244,Afternoon,No
+456,Arjun Gupta,11A,Unit Test,72,37,31,75,45,3,3,110,Night,Yes
+457,Saanvi Reddy,9A,Term 1,99,50,99,75,55,2,5,169,Morning,Yes
+458,Aarav Iyer,10A,Unit Test,72,95,69,33,49,5,4,206,Night,Yes
+459,Neha Mehta,10A,Unit Test,76,34,100,84,36,4,2,184,Night,No
+460,Rahul Kumar,10B,Unit Test,66,52,88,35,62,4,5,118,Evening,Yes
+461,Aditya Reddy,11A,Midterm,89,80,84,68,32,3,10,43,Evening,No
+462,Arjun Iyer,11A,Term 1,77,99,53,66,85,5,4,64,Morning,No
+463,Ananya Reddy,11A,Term 1,77,41,82,59,59,3,9,220,Morning,Yes
+464,Kiran Mehta,11A,Term 2,93,56,69,69,43,3,4,52,Morning,Yes
+465,Ananya Singh,10A,Final,63,55,60,76,90,5,9,290,Evening,Yes
+466,Aarav Iyer,11A,Midterm,88,99,40,77,94,3,9,208,Morning,Yes
+467,Meera Singh,10B,Term 2,96,61,58,82,96,1,10,143,Morning,Yes
+468,Sneha Iyer,11B,Final,79,83,37,87,55,4,1,260,Evening,Yes
+469,Vikram Singh,11A,Term 1,92,67,63,40,43,3,5,145,Evening,Yes
+470,Aditya Patel,11B,Term 1,80,48,87,51,69,3,9,89,Night,No
+471,Vivaan Kumar,11A,Term 2,67,91,43,47,42,5,4,269,Morning,Yes
+472,Vihaan Mehta,10A,Term 2,94,54,98,63,90,4,9,215,Morning,Yes
+473,Saanvi Reddy,9B,Final,85,88,64,51,76,2,8,267,Evening,Yes
+474,Aditi Patel,9A,Term 1,74,30,84,97,91,4,6,264,Night,No
+475,Vivaan Reddy,9A,Midterm,92,45,47,100,31,3,2,138,Night,No
+476,Kabir Kumar,9B,Term 2,95,78,78,73,89,1,1,126,Night,No
+477,Aditya Patel,10B,Term 1,73,42,83,45,89,1,1,132,Evening,No
+478,Neha Reddy,10B,Term 1,73,58,30,67,63,3,9,61,Evening,No
+479,Sai Reddy,11B,Unit Test,99,80,86,41,37,1,10,280,Night,No
+480,Rohan Gupta,10B,Unit Test,70,61,88,55,30,1,5,76,Evening,Yes
+481,Ananya Patel,9B,Final,81,57,83,90,90,2,8,242,Afternoon,No
+482,Vihaan Nair,10A,Midterm,80,66,49,82,73,4,1,207,Night,Yes
+483,Saanvi Singh,11A,Unit Test,84,52,85,96,71,2,1,162,Evening,Yes
+484,Rohan Mehta,10A,Final,93,88,30,66,75,1,3,171,Night,Yes
+485,Sneha Mehta,10B,Midterm,67,49,79,92,72,1,10,122,Evening,Yes
+486,Arjun Mehta,11A,Term 1,82,35,44,48,33,3,6,154,Morning,No
+487,Diya Verma,11B,Unit Test,60,57,46,57,74,3,5,132,Morning,No
+488,Meera Gupta,9B,Term 1,61,39,79,64,35,1,8,88,Night,No
+489,Meera Mehta,11A,Final,91,71,90,38,78,1,1,289,Night,Yes
+490,Kabir Nair,10A,Midterm,85,49,62,59,94,5,8,74,Night,No
+491,Vikram Sharma,11A,Term 1,82,81,59,84,86,2,3,181,Morning,Yes
+492,Krish Nair,9A,Unit Test,70,92,82,86,33,3,3,256,Night,Yes
+493,Vihaan Kumar,10A,Unit Test,97,96,90,98,72,2,7,74,Afternoon,Yes
+494,Diya Iyer,9B,Final,73,91,55,66,83,3,4,244,Morning,No
+495,Meera Patel,11B,Midterm,61,64,93,96,69,3,1,125,Morning,No
+496,Sneha Mehta,9B,Unit Test,91,32,65,66,47,2,5,279,Afternoon,Yes
+497,Diya Singh,11A,Final,72,40,94,53,32,3,4,75,Afternoon,No
+498,Arjun Reddy,11A,Term 1,68,61,65,88,46,5,1,237,Night,No
+499,Vihaan Verma,11A,Unit Test,93,100,89,60,90,3,8,260,Morning,No
+500,Sai Patel,9A,Final,97,88,64,32,72,5,1,154,Night,No
+501,Kabir Patel,9A,Term 1,95,34,96,99,83,3,2,114,Afternoon,Yes
+502,Aditya Iyer,10A,Unit Test,69,70,43,99,37,4,10,221,Morning,No
+503,Meera Reddy,11A,Unit Test,76,67,42,48,52,3,3,162,Afternoon,Yes
+504,Aarav Sharma,10A,Term 1,70,57,99,94,65,3,8,263,Evening,No
+505,Vihaan Iyer,10A,Term 2,70,80,47,39,57,1,2,196,Night,Yes
+506,Neha Reddy,10B,Midterm,85,84,95,72,77,4,2,111,Evening,No
+507,Kabir Nair,11A,Final,83,56,40,92,69,2,3,184,Night,Yes
+508,Krish Sharma,10B,Term 2,79,73,62,78,65,1,3,293,Afternoon,Yes
+509,Vihaan Singh,11A,Midterm,84,61,86,80,69,4,8,100,Afternoon,Yes
+510,Sneha Mehta,11B,Final,69,76,43,69,31,5,7,67,Afternoon,Yes
+511,Sai Iyer,11A,Midterm,88,66,53,99,69,3,5,266,Night,Yes
+512,Aditi Sharma,9A,Term 1,82,98,47,50,37,2,6,73,Evening,Yes
+513,Vikram Kumar,9A,Final,67,66,42,83,71,5,8,123,Afternoon,Yes
+514,Aditya Reddy,10A,Unit Test,85,92,39,65,32,4,9,184,Night,No
+515,Kiran Sharma,10B,Term 1,78,34,56,49,84,5,2,103,Morning,No
+516,Vivaan Mehta,10A,Term 2,82,82,54,100,77,4,2,211,Afternoon,No
+517,Arjun Iyer,10A,Midterm,69,75,66,80,59,3,7,170,Afternoon,Yes
+518,Rohan Iyer,11B,Final,82,63,91,70,100,2,3,177,Night,Yes
+519,Kiran Sharma,9B,Midterm,86,66,60,100,47,3,1,262,Afternoon,No
+520,Diya Kumar,11A,Term 2,71,88,39,100,98,2,7,123,Morning,No
+521,Arjun Verma,9B,Midterm,77,97,71,88,69,5,8,73,Afternoon,Yes
+522,Meera Mehta,11A,Final,96,62,61,34,62,3,1,53,Night,No
+523,Arjun Iyer,11A,Final,75,86,60,94,55,3,9,268,Morning,Yes
+524,Diya Verma,9A,Unit Test,69,78,40,73,72,1,4,34,Morning,No
+525,Aditi Iyer,11A,Term 1,67,38,92,82,93,4,6,111,Afternoon,No
+526,Aditya Mehta,11B,Unit Test,77,71,85,95,94,1,8,129,Night,Yes
+527,Vihaan Reddy,9A,Term 2,70,71,49,92,88,3,8,99,Evening,Yes
+528,Saanvi Sharma,9A,Term 2,82,32,43,63,54,4,8,38,Evening,Yes
+529,Sai Nair,10B,Term 2,60,35,74,69,63,4,9,183,Night,No
+530,Sai Mehta,11A,Final,91,60,96,30,66,4,2,212,Morning,Yes
+531,Kiran Iyer,10B,Midterm,74,59,81,52,55,2,2,54,Afternoon,No
+532,Rahul Singh,10B,Final,66,73,92,45,87,5,10,203,Night,Yes
+533,Kabir Patel,9B,Term 1,95,57,36,95,69,5,3,225,Night,Yes
+534,Kiran Patel,9B,Final,86,65,45,50,32,5,7,105,Afternoon,No
+535,Diya Sharma,11A,Term 2,82,74,52,31,32,4,3,73,Night,Yes
+536,Krish Kumar,10A,Unit Test,82,64,43,66,95,1,1,241,Evening,Yes
+537,Neha Gupta,9A,Final,64,60,44,64,45,1,10,249,Morning,No
+538,Vivaan Nair,11B,Unit Test,64,93,54,83,89,2,8,216,Evening,Yes
+539,Ananya Reddy,9B,Unit Test,84,100,94,78,46,3,4,35,Evening,No
+540,Rohan Sharma,11A,Unit Test,78,85,67,90,96,2,1,222,Morning,No
+541,Meera Sharma,11A,Unit Test,82,59,93,83,72,3,6,219,Evening,No
+542,Aditya Singh,10B,Midterm,79,61,81,59,58,2,9,235,Afternoon,Yes
+543,Kabir Verma,11B,Midterm,80,78,52,59,50,2,9,170,Evening,Yes
+544,Sneha Verma,9A,Term 1,68,36,58,86,49,2,5,91,Afternoon,No
+545,Krish Patel,10A,Term 2,94,47,54,78,72,1,10,117,Afternoon,Yes
+546,Kiran Kumar,9A,Unit Test,74,56,84,50,34,2,8,285,Afternoon,No
+547,Kabir Singh,10B,Final,78,61,30,82,95,4,10,174,Afternoon,No
+548,Meera Singh,10B,Term 2,78,45,88,76,40,2,10,61,Afternoon,Yes
+549,Vikram Gupta,9A,Midterm,71,90,67,84,42,4,10,107,Morning,No
+550,Meera Verma,11B,Midterm,62,47,56,31,31,5,5,69,Evening,Yes
+551,Kiran Patel,10A,Unit Test,78,100,52,98,73,2,6,135,Evening,Yes
+552,Arjun Gupta,10A,Final,71,65,61,67,84,3,5,40,Evening,No
+553,Rahul Patel,10A,Term 2,93,96,92,42,40,1,5,33,Evening,Yes
+554,Neha Reddy,11B,Unit Test,75,76,79,55,43,3,1,163,Morning,No
+555,Vivaan Kumar,11B,Midterm,64,92,88,82,37,5,9,295,Morning,Yes
+556,Ishita Iyer,11B,Unit Test,85,53,49,45,30,5,2,279,Afternoon,Yes
+557,Vikram Reddy,10A,Term 2,83,75,57,42,48,5,3,100,Morning,No
+558,Vivaan Kumar,10A,Midterm,92,83,84,60,74,2,10,157,Night,Yes
+559,Vivaan Iyer,10A,Term 1,81,56,36,31,32,3,6,259,Night,Yes
+560,Diya Reddy,10B,Midterm,68,74,62,32,80,1,7,179,Night,Yes
+561,Meera Verma,10B,Term 1,87,43,88,85,80,5,8,259,Night,No
+562,Saanvi Iyer,11A,Final,63,46,87,88,57,4,2,137,Night,Yes
+563,Ishita Verma,10B,Unit Test,63,82,91,93,93,3,3,159,Afternoon,No
+564,Neha Gupta,9B,Term 1,89,66,75,51,35,2,8,193,Night,Yes
+565,Arjun Mehta,11B,Final,92,49,88,90,63,2,3,157,Afternoon,No
+566,Vikram Kumar,11A,Unit Test,80,74,73,59,32,3,1,97,Evening,Yes
+567,Saanvi Sharma,9B,Term 1,74,100,72,65,66,4,9,181,Morning,No
+568,Krish Iyer,10B,Unit Test,70,49,54,51,75,1,3,175,Morning,No
+569,Kiran Singh,11B,Final,75,96,91,99,48,5,8,70,Afternoon,No
+570,Arjun Iyer,11B,Term 2,85,33,89,38,60,5,3,36,Night,Yes
+571,Arjun Patel,11A,Unit Test,60,74,68,53,86,4,7,159,Evening,Yes
+572,Rahul Sharma,9B,Term 1,77,34,68,95,72,1,4,100,Evening,Yes
+573,Neha Patel,9A,Term 2,77,88,82,62,96,1,2,72,Afternoon,Yes
+574,Aditya Patel,9B,Midterm,74,60,49,48,75,2,4,201,Night,No
+575,Arjun Gupta,9B,Midterm,63,85,55,84,56,5,1,93,Night,Yes
+576,Arjun Mehta,9A,Unit Test,64,97,86,48,80,4,8,280,Afternoon,No
+577,Vihaan Verma,11B,Midterm,72,61,56,77,43,3,9,93,Morning,No
+578,Aditi Gupta,9A,Term 1,100,93,43,65,67,1,2,161,Afternoon,Yes
+579,Meera Singh,10A,Term 1,67,75,91,39,78,1,9,63,Night,Yes
+580,Aditi Gupta,9A,Unit Test,85,83,92,98,88,3,7,234,Night,Yes
+581,Aarav Patel,10A,Term 1,84,40,65,69,44,5,2,133,Evening,No
+582,Aarav Patel,9A,Term 1,79,36,99,88,32,1,9,218,Morning,Yes
+583,Ishita Verma,9B,Unit Test,66,61,30,82,83,4,10,48,Night,No
+584,Saanvi Kumar,9B,Midterm,91,40,67,44,80,5,9,150,Evening,No
+585,Aditi Verma,10A,Term 1,83,83,79,94,75,4,1,283,Morning,No
+586,Arjun Sharma,10B,Midterm,90,36,83,92,90,4,9,144,Evening,No
+587,Vihaan Singh,11A,Midterm,75,86,59,37,58,2,8,183,Afternoon,No
+588,Aditya Kumar,9A,Unit Test,99,75,32,35,94,3,5,61,Evening,No
+589,Sai Mehta,11B,Midterm,74,48,99,87,53,2,5,212,Morning,No
+590,Rahul Verma,10A,Unit Test,72,30,54,84,42,3,1,34,Morning,No
+591,Aditi Patel,10A,Term 2,86,72,96,68,78,4,10,156,Night,No
+592,Vihaan Iyer,9A,Term 2,75,83,54,47,75,1,6,183,Morning,Yes
+593,Aarav Singh,11B,Final,62,62,67,33,44,2,1,81,Night,No
+594,Neha Mehta,10A,Midterm,79,30,59,55,84,4,3,288,Morning,Yes
+595,Sneha Iyer,11A,Term 1,65,45,78,99,86,2,4,84,Night,No
+596,Kiran Kumar,11A,Term 2,89,94,95,67,82,2,7,218,Night,Yes
+597,Rahul Gupta,11A,Term 1,96,39,80,54,60,1,9,281,Evening,No
+598,Aarav Gupta,10A,Term 1,65,79,74,88,49,3,5,149,Night,No
+599,Aditya Sharma,9A,Final,63,58,32,54,65,1,4,278,Afternoon,Yes
+600,Ananya Patel,9A,Unit Test,91,30,45,93,73,1,10,118,Afternoon,Yes
+601,Saanvi Patel,9A,Term 1,96,83,36,49,96,5,7,101,Afternoon,Yes
+602,Rahul Sharma,9A,Unit Test,86,77,92,84,41,2,8,37,Morning,Yes
+603,Kiran Singh,9A,Term 2,92,98,32,43,76,4,8,155,Evening,Yes
+604,Aditi Iyer,9A,Midterm,93,53,40,95,47,3,4,164,Evening,Yes
+605,Vivaan Patel,10B,Term 2,78,96,69,54,99,3,3,54,Night,No
+606,Rohan Verma,10B,Unit Test,96,91,76,39,85,4,3,130,Evening,No
+607,Diya Singh,11B,Unit Test,88,75,49,58,59,2,10,260,Morning,No
+608,Sneha Reddy,11B,Term 1,80,55,56,48,69,5,9,115,Morning,Yes
+609,Rohan Verma,10B,Midterm,61,68,41,87,70,5,1,298,Evening,No
+610,Arjun Verma,9B,Term 2,76,72,46,56,32,5,9,48,Night,No
+611,Krish Kumar,9A,Midterm,96,36,33,82,30,1,6,239,Evening,No
+612,Meera Gupta,10A,Term 1,75,47,38,59,52,2,6,260,Afternoon,Yes
+613,Arjun Reddy,10A,Unit Test,68,77,97,50,93,3,3,111,Afternoon,No
+614,Meera Mehta,10A,Midterm,92,100,30,72,87,1,5,156,Night,Yes
+615,Aarav Kumar,9A,Unit Test,68,38,49,76,36,5,1,273,Night,No
+616,Ishita Patel,9B,Term 2,95,70,70,43,87,2,6,123,Night,Yes
+617,Vihaan Sharma,9B,Midterm,80,93,65,61,49,2,3,177,Evening,Yes
+618,Saanvi Mehta,11B,Unit Test,99,89,96,39,86,1,1,115,Night,No
+619,Vihaan Gupta,10A,Final,74,43,87,70,88,4,4,261,Evening,No
+620,Aditya Verma,10A,Midterm,68,64,33,31,64,5,7,217,Evening,No
+621,Krish Mehta,11A,Unit Test,83,38,42,49,83,3,4,127,Evening,No
+622,Sneha Verma,9B,Midterm,75,97,72,57,94,3,5,118,Morning,Yes
+623,Ishita Nair,9A,Term 1,66,99,76,96,69,1,7,179,Morning,No
+624,Rahul Verma,9B,Midterm,70,38,89,82,58,1,5,243,Night,No
+625,Vihaan Reddy,9B,Midterm,89,32,75,72,78,5,5,99,Night,No
+626,Aarav Singh,11A,Final,64,80,34,98,87,1,5,264,Night,No
+627,Krish Iyer,9A,Midterm,92,88,39,54,38,5,5,55,Afternoon,Yes
+628,Vivaan Patel,9B,Unit Test,91,65,33,32,96,3,8,140,Afternoon,Yes
+629,Aarav Singh,10B,Term 1,85,42,54,39,76,2,6,250,Afternoon,No
+630,Arjun Gupta,9A,Unit Test,62,48,77,99,89,5,2,91,Afternoon,No
+631,Vihaan Iyer,9B,Term 2,61,97,99,83,93,2,2,72,Afternoon,Yes
+632,Kiran Patel,11B,Term 1,86,89,89,95,73,2,6,205,Afternoon,No
+633,Ananya Gupta,11B,Term 2,85,91,60,89,66,4,1,215,Morning,No
+634,Krish Verma,10A,Term 2,65,53,64,51,83,4,2,65,Evening,No
+635,Sai Mehta,10B,Term 1,70,68,91,73,49,5,1,259,Night,Yes
+636,Aditya Kumar,10B,Final,86,79,59,59,96,1,8,69,Evening,Yes
+637,Ananya Reddy,10B,Unit Test,86,94,41,53,42,2,10,254,Morning,Yes
+638,Sai Singh,10A,Final,73,82,90,66,35,1,3,249,Afternoon,Yes
+639,Vivaan Reddy,11A,Term 2,65,77,54,85,53,2,8,47,Night,Yes
+640,Aarav Singh,11B,Midterm,68,62,73,96,76,3,1,67,Afternoon,No
+641,Arjun Sharma,9B,Term 2,79,61,88,63,63,5,4,104,Afternoon,No
+642,Sneha Mehta,10B,Term 1,78,49,97,33,89,1,1,154,Night,Yes
+643,Ananya Patel,10B,Final,77,49,51,90,60,5,1,32,Afternoon,Yes
+644,Diya Singh,11B,Term 2,84,82,65,82,55,1,8,202,Night,Yes
+645,Aarav Verma,10A,Term 1,99,86,87,65,95,1,4,137,Afternoon,Yes
+646,Diya Singh,10B,Term 2,86,63,37,70,53,1,9,75,Evening,No
+647,Arjun Reddy,10B,Midterm,65,66,88,88,36,1,10,120,Evening,No
+648,Sneha Patel,9B,Term 2,97,93,42,97,63,4,6,221,Evening,Yes
+649,Krish Iyer,11B,Term 2,91,57,86,85,70,2,5,286,Afternoon,No
+650,Kabir Singh,10A,Final,72,40,60,32,61,3,2,207,Evening,No
+651,Rohan Gupta,9B,Final,97,93,62,100,62,1,9,298,Evening,No
+652,Kiran Reddy,11A,Term 1,86,65,62,93,75,5,7,221,Morning,No
+653,Arjun Iyer,9B,Term 1,76,80,65,49,93,4,3,112,Evening,No
+654,Vihaan Patel,9A,Midterm,79,97,47,80,45,2,1,177,Night,No
+655,Arjun Mehta,9B,Midterm,86,99,65,34,40,4,2,96,Afternoon,No
+656,Sai Nair,9B,Unit Test,94,77,61,93,70,4,5,136,Night,No
+657,Kiran Iyer,10A,Term 2,87,71,43,96,90,5,3,214,Night,No
+658,Krish Nair,10B,Unit Test,88,48,37,83,84,1,2,50,Evening,No
+659,Rohan Kumar,9B,Term 1,72,76,53,37,55,1,3,294,Morning,No
+660,Ananya Iyer,11A,Final,62,76,74,31,43,2,3,187,Morning,Yes
+661,Aditi Mehta,9B,Final,86,73,98,56,86,5,8,37,Afternoon,Yes
+662,Ishita Verma,11A,Final,76,31,75,33,43,2,4,96,Night,No
+663,Neha Gupta,10B,Term 2,79,42,85,49,54,4,7,78,Afternoon,Yes
+664,Sneha Patel,10A,Midterm,96,86,48,57,92,2,4,131,Night,Yes
+665,Rahul Gupta,9A,Final,63,71,38,92,66,3,7,186,Afternoon,Yes
+666,Arjun Gupta,10A,Final,78,63,61,30,55,2,10,57,Evening,Yes
+667,Sai Nair,11A,Term 2,86,47,35,47,76,3,10,228,Morning,Yes
+668,Sai Iyer,9A,Term 2,93,61,30,52,86,5,3,285,Morning,Yes
+669,Diya Patel,11B,Unit Test,93,64,37,30,43,1,1,179,Night,No
+670,Kabir Gupta,10B,Term 2,100,48,82,51,64,2,5,167,Evening,No
+671,Vikram Reddy,10B,Unit Test,81,42,35,70,32,2,2,244,Morning,Yes
+672,Ananya Iyer,11A,Midterm,99,45,68,89,42,1,9,107,Evening,No
+673,Ishita Reddy,11B,Term 2,60,41,45,34,88,1,10,140,Morning,No
+674,Meera Mehta,11B,Term 2,81,78,49,32,87,1,1,230,Evening,No
+675,Aditya Patel,10A,Term 1,93,76,70,57,96,1,6,83,Evening,Yes
+676,Kabir Nair,10B,Unit Test,89,69,78,93,35,5,4,240,Night,No
+677,Aarav Iyer,10B,Final,76,39,78,98,57,4,8,88,Morning,Yes
+678,Vivaan Reddy,11A,Final,69,37,79,49,41,2,4,168,Afternoon,No
+679,Aarav Mehta,10A,Unit Test,62,89,80,65,83,5,2,147,Evening,Yes
+680,Rohan Kumar,11A,Midterm,74,31,83,71,31,3,7,129,Afternoon,Yes
+681,Krish Patel,11B,Term 1,66,34,57,86,92,1,6,60,Night,Yes
+682,Rohan Sharma,11B,Unit Test,71,37,48,98,73,2,10,246,Evening,No
+683,Vivaan Kumar,9B,Term 1,96,52,76,57,58,4,5,265,Night,Yes
+684,Vihaan Nair,11A,Final,75,98,62,94,70,1,3,75,Afternoon,No
+685,Kiran Singh,11A,Term 2,70,54,62,36,33,4,10,208,Evening,No
+686,Aarav Patel,11A,Term 1,97,58,64,77,85,4,4,60,Afternoon,Yes
+687,Diya Nair,10B,Unit Test,79,95,98,34,54,1,2,50,Evening,Yes
+688,Aditya Sharma,11B,Final,93,81,65,100,83,2,3,175,Evening,Yes
+689,Kabir Kumar,9A,Term 2,98,49,52,74,83,4,6,123,Evening,No
+690,Diya Patel,11B,Term 1,67,85,97,95,87,2,3,167,Morning,No
+691,Vivaan Nair,10A,Term 1,69,65,82,91,53,2,5,245,Afternoon,Yes
+692,Rohan Verma,10B,Final,94,79,97,30,56,1,1,199,Night,No
+693,Vivaan Gupta,9A,Term 1,74,59,39,56,91,4,1,148,Night,No
+694,Aditya Nair,11B,Final,60,49,60,99,46,5,3,230,Evening,No
+695,Aarav Mehta,11A,Term 2,83,34,49,30,51,1,7,211,Afternoon,No
+696,Rohan Verma,11B,Final,81,36,61,47,56,5,3,83,Morning,No
+697,Rahul Patel,11B,Term 1,98,60,79,87,67,4,7,64,Morning,Yes
+698,Kabir Patel,10A,Final,81,95,65,60,45,2,5,43,Afternoon,No
+699,Saanvi Iyer,11A,Unit Test,99,66,59,62,41,3,9,40,Evening,Yes
+700,Rahul Mehta,11A,Midterm,82,59,64,58,96,1,1,80,Evening,No
+701,Rohan Patel,10A,Midterm,88,46,52,86,31,2,3,169,Night,Yes
+702,Rahul Nair,9A,Term 1,87,70,58,66,78,4,4,287,Night,No
+703,Meera Iyer,11A,Unit Test,100,96,60,64,39,1,6,118,Afternoon,No
+704,Rahul Gupta,10B,Term 1,83,68,36,53,57,4,1,247,Afternoon,No
+705,Rahul Verma,9A,Midterm,71,66,56,98,53,3,6,158,Evening,Yes
+706,Vikram Gupta,10B,Unit Test,93,87,75,37,97,4,3,266,Night,Yes
+707,Krish Verma,11A,Term 1,90,51,74,74,76,2,7,221,Morning,Yes
+708,Aditya Iyer,9B,Unit Test,68,54,93,60,39,2,4,164,Morning,No
+709,Rahul Verma,10A,Final,77,49,88,46,74,1,2,117,Afternoon,Yes
+710,Saanvi Kumar,11B,Midterm,88,49,49,65,82,2,8,235,Morning,No
+711,Neha Kumar,9B,Term 2,79,62,52,93,64,1,2,278,Night,No
+712,Ananya Reddy,11A,Term 2,80,92,56,67,52,4,4,82,Night,No
+713,Vivaan Kumar,9B,Term 1,63,39,89,65,91,1,3,139,Morning,No
+714,Krish Patel,9A,Term 2,61,38,49,45,58,5,5,298,Morning,No
+715,Aditi Gupta,10B,Final,90,53,52,100,39,2,5,125,Evening,Yes
+716,Kiran Nair,11B,Unit Test,75,67,37,97,60,5,2,83,Morning,No
+717,Krish Singh,9B,Unit Test,68,38,80,86,43,1,9,64,Night,Yes
+718,Aarav Reddy,11B,Unit Test,96,30,86,86,98,4,9,284,Morning,No
+719,Ananya Kumar,9B,Term 1,70,48,37,73,100,5,6,104,Morning,No
+720,Diya Nair,9A,Term 1,65,68,48,44,72,3,8,236,Morning,No
+721,Neha Iyer,9A,Term 1,74,78,50,33,40,2,7,183,Morning,Yes
+722,Sneha Mehta,11A,Unit Test,70,94,33,30,64,2,10,132,Evening,No
+723,Aditya Patel,11B,Term 1,65,59,40,52,31,1,10,102,Night,No
+724,Vikram Mehta,11A,Final,86,38,98,58,60,4,10,180,Night,Yes
+725,Aditi Mehta,11A,Midterm,65,71,78,47,56,3,1,64,Afternoon,Yes
+726,Ishita Reddy,11A,Unit Test,82,80,69,80,60,2,10,233,Afternoon,Yes
+727,Diya Mehta,11A,Midterm,73,58,59,37,95,2,5,184,Morning,No
+728,Saanvi Verma,9B,Term 1,97,49,53,41,77,2,8,288,Afternoon,Yes
+729,Rohan Nair,9A,Term 1,93,77,63,69,49,2,8,286,Evening,Yes
+730,Saanvi Patel,10A,Unit Test,97,34,76,67,93,5,4,220,Morning,No
+731,Rahul Nair,11B,Unit Test,76,36,37,68,92,3,4,155,Morning,Yes
+732,Vikram Nair,9A,Term 1,70,46,53,31,94,2,3,240,Afternoon,No
+733,Ananya Kumar,9B,Final,80,77,31,36,99,3,5,89,Morning,No
+734,Vikram Singh,9A,Term 2,80,59,46,99,65,5,7,134,Evening,Yes
+735,Aditi Verma,10B,Term 1,89,39,90,80,63,2,2,193,Morning,Yes
+736,Kabir Sharma,11B,Final,62,81,78,54,47,2,1,274,Evening,No
+737,Vikram Patel,9A,Final,76,30,70,84,66,5,9,192,Night,Yes
+738,Aditya Patel,9B,Term 2,95,45,61,47,73,3,3,201,Evening,Yes
+739,Aditi Singh,9B,Term 1,77,55,43,40,93,4,3,97,Morning,Yes
+740,Saanvi Iyer,10B,Term 2,96,73,76,72,71,2,2,123,Morning,Yes
+741,Sneha Singh,11B,Midterm,84,51,46,45,65,4,7,40,Evening,No
+742,Rohan Kumar,9B,Final,61,51,34,83,43,4,1,220,Night,Yes
+743,Rohan Sharma,9A,Term 1,71,82,54,75,67,5,10,133,Night,No
+744,Rohan Singh,9A,Unit Test,79,59,30,34,85,1,2,281,Afternoon,No
+745,Diya Mehta,11A,Term 2,94,83,99,54,92,5,1,285,Night,No
+746,Aarav Patel,11A,Term 2,77,74,76,92,81,1,9,159,Night,No
+747,Ananya Nair,11B,Unit Test,100,64,87,50,52,5,9,290,Afternoon,Yes
+748,Aditya Gupta,10B,Final,97,52,91,58,48,1,1,219,Afternoon,Yes
+749,Sai Iyer,11A,Final,74,96,66,30,61,3,1,172,Night,No
+750,Vikram Sharma,11B,Midterm,72,65,81,76,100,3,3,176,Afternoon,No
+751,Vivaan Verma,11A,Term 2,89,65,43,89,79,4,1,212,Morning,No
+752,Diya Reddy,9B,Term 2,93,85,43,96,39,4,4,177,Night,Yes
+753,Vivaan Nair,10A,Unit Test,68,81,44,52,73,4,5,119,Evening,No
+754,Saanvi Sharma,9B,Final,92,34,77,84,43,3,3,272,Evening,Yes
+755,Vihaan Nair,10B,Final,68,99,92,50,72,1,7,104,Afternoon,Yes
+756,Aditya Iyer,9A,Unit Test,84,43,74,73,32,2,7,31,Morning,Yes
+757,Ananya Patel,10A,Unit Test,60,45,64,74,71,3,4,154,Night,Yes
+758,Rohan Singh,9B,Term 1,90,97,84,53,33,5,4,207,Afternoon,No
+759,Meera Gupta,11A,Final,87,53,37,66,66,3,3,95,Morning,Yes
+760,Diya Patel,10A,Unit Test,84,64,34,50,38,1,2,48,Night,No
+761,Vikram Singh,10B,Term 1,60,94,62,63,67,3,6,246,Evening,No
+762,Rahul Mehta,9B,Unit Test,95,33,48,77,44,4,9,78,Morning,Yes
+763,Vihaan Sharma,11B,Final,96,56,55,77,37,3,8,130,Night,Yes
+764,Rohan Sharma,9A,Term 2,64,45,100,58,39,5,2,220,Afternoon,Yes
+765,Aarav Kumar,10B,Midterm,66,32,96,63,57,2,4,124,Evening,Yes
+766,Vikram Patel,11A,Term 1,62,48,72,91,77,1,6,227,Night,No
+767,Diya Iyer,9A,Midterm,66,62,50,38,79,5,1,187,Morning,No
+768,Vivaan Sharma,11B,Term 2,65,86,57,63,33,2,4,207,Night,Yes
+769,Arjun Gupta,10A,Final,63,53,60,61,49,1,5,188,Evening,Yes
+770,Kabir Nair,11B,Final,75,51,63,48,43,1,7,239,Afternoon,No
+771,Kabir Patel,10A,Term 1,63,80,46,60,30,4,9,253,Night,No
+772,Krish Iyer,10B,Term 2,75,49,98,93,34,5,6,185,Evening,No
+773,Vikram Gupta,11A,Unit Test,88,39,64,35,44,1,4,177,Afternoon,Yes
+774,Ananya Verma,10B,Unit Test,93,32,30,92,52,4,6,177,Afternoon,Yes
+775,Vihaan Iyer,10A,Final,99,48,89,40,72,5,8,225,Afternoon,No
+776,Sneha Gupta,10A,Unit Test,99,35,30,75,89,5,7,75,Afternoon,Yes
+777,Sneha Patel,9B,Term 1,68,42,67,60,86,3,10,208,Morning,Yes
+778,Rahul Sharma,11B,Final,97,39,37,98,97,3,7,62,Morning,Yes
+779,Krish Sharma,11B,Term 2,93,72,42,70,81,3,7,84,Evening,Yes
+780,Ananya Patel,9B,Term 1,89,51,51,51,56,3,8,236,Afternoon,Yes
+781,Arjun Reddy,10A,Final,68,35,37,83,71,4,2,279,Morning,No
+782,Rohan Singh,10A,Term 2,68,57,73,88,67,3,2,118,Night,No
+783,Neha Iyer,9B,Unit Test,83,36,74,47,99,3,7,42,Evening,No
+784,Vikram Reddy,11B,Midterm,77,39,37,92,87,5,10,196,Night,No
+785,Kiran Reddy,9A,Midterm,86,100,69,75,100,4,3,246,Afternoon,Yes
+786,Saanvi Sharma,10B,Term 2,93,76,93,53,85,3,1,33,Night,No
+787,Ishita Patel,11A,Final,80,97,44,61,43,4,9,239,Evening,No
+788,Sai Mehta,11A,Final,73,94,43,65,55,2,9,38,Night,No
+789,Kiran Patel,9A,Midterm,92,76,92,91,93,3,4,143,Afternoon,No
+790,Sai Kumar,10B,Term 2,95,38,74,74,73,4,3,35,Evening,Yes
+791,Vikram Sharma,10A,Midterm,69,35,73,94,62,2,2,178,Afternoon,No
+792,Saanvi Mehta,10A,Unit Test,77,85,71,76,44,2,8,240,Night,Yes
+793,Vivaan Gupta,10B,Term 2,91,83,51,35,68,5,9,59,Night,No
+794,Ananya Iyer,9A,Term 2,86,33,38,34,59,5,5,30,Evening,No
+795,Krish Patel,9B,Term 2,79,89,57,90,76,3,3,190,Night,Yes
+796,Krish Mehta,11A,Term 1,73,34,100,46,89,4,6,91,Morning,Yes
+797,Arjun Reddy,10A,Term 1,88,61,76,72,88,1,6,160,Evening,Yes
+798,Arjun Patel,9B,Term 2,87,45,60,91,67,5,4,69,Morning,No
+799,Vivaan Kumar,11B,Term 2,79,62,54,87,67,3,7,242,Night,No
+800,Kiran Gupta,9A,Final,89,49,96,71,74,3,7,274,Morning,Yes
