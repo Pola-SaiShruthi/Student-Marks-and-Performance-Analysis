@@ -255,6 +255,6 @@ elif st.session_state.page == "Brain Food":
 elif st.session_state.page == "Mind Freshener":
     mind_freshener_page()
 else:
-    st.write("Unknown page. Returning to Dashboard.")
+    st.write("Unknown page-Returning to Dashboard.")
     st.session_state.page = "Dashboard"
     st.rerun()
