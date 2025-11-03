@@ -9,11 +9,12 @@ import plotly.express as px
 from data_preprocessing import load_data, get_student_list, get_student_by_roll, get_student_by_name, get_subject_columns
 import utils
 
+
 st.set_page_config(page_title="Student Performance Dashboard", layout="wide")
 
 # ---------- Load data ----------
 try:
-    df = load_data("student_data_v3.csv")
+    df = load_data(r"D:\DAV(py)\PBL_DAV\student_data_raw_fixed.csv")
 except FileNotFoundError as e:
     st.error(str(e))
     st.stop()
@@ -227,8 +228,8 @@ def mind_freshener_page():
     # generate or re-generate activities based on session seed
     if "mind_seed" not in st.session_state:
         st.session_state.mind_seed = 0
-    if st.button("Next (regenerate activities)"):
-        st.session_state.mind_seed += 1
+    #if st.button("Next (regenerate activities)"):
+        #st.session_state.mind_seed += 1
 
     # We incorporate mind_seed so Next regenerates. We feed a combined deterministic seed but change with mind_seed
     # utils.generate_mind_activities uses student's roll; to make Next change, we alter the name slightly by appending mind_seed

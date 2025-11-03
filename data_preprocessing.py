@@ -47,13 +47,13 @@ def _canonical_map(col: str):
         return "Exam Fear"
     return col
 
-def load_data(filepath="student_data_v3.csv"):
+def load_data(filepath="student_data_raw_fixed.csv"):
     """
     Load CSV and canonicalize column names.
     Coalesce columns that map to the same canonical name to avoid duplicates.
     """
     if not os.path.exists(filepath):
-        raise FileNotFoundError(f"CSV file not found at: {filepath}\nPlace student_data_v3.csv in the same folder or run the dataset generator.")
+        raise FileNotFoundError(f"CSV file not found at: {filepath}\nPlace student_data_raw_fixed.csv in the same folder or run the dataset generator.")
     df_raw = pd.read_csv(filepath)
 
     # Map originals -> canonical

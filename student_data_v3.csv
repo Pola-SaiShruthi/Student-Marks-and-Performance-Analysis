@@ -1,8 +1,8 @@
 Roll No,Name,Class,Exam,Attendance (%),Math,Science,English,History,Memory Score,Stress Level,Study Duration (minutes),Preferred Study Time,Exam Fear
-1,Aditya Reddy,10B,Term 1,60,57,92,33,40,3,10,234,Evening,Yes
+1,Aditya Reddy,10B,Term 1,60,,92,33,40,3,10,234,Evening,Yes
 2,Ishita Iyer,9A,Midterm,87,74,50,100,69,2,3,152,Night,No
 3,Arjun Reddy,9B,Term 2,89,89,88,34,51,2,6,260,Night,Yes
-4,Aditya Patel,11B,Final,77,94,86,56,92,1,10,105,Morning,Yes
+4,Aditya Patel,11B,final,77,94,86,56,,1,10,105,Morning,Yes
 5,Sneha Iyer,11B,Unit Test,81,100,41,90,34,3,6,146,Afternoon,No
 6,Sneha Singh,11B,Term 1,91,86,67,85,30,1,8,33,Afternoon,No
 7,Aditi Patel,11B,Midterm,100,85,77,85,79,1,9,283,Morning,Yes

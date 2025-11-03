@@ -73,23 +73,47 @@ def strengths_weaknesses(student_row, subject_cols, top_n=3):
     return strengths, weaknesses
 
 def study_time_vs_performance_df(df):
-    subject_cols = [c for c in df.columns if c not in ("Roll No","Name","Class","Exam","Attendance (%)","Memory Score","Stress Level","Study Duration (minutes)","Study Duration (hours)","Preferred Study Time","Exam Fear")]
+    # Identify subject columns (ignore non-academic ones)
+    subject_cols = [
+        c for c in df.columns
+        if c not in (
+            "Roll No", "Name", "Class", "Exam", "Attendance (%)",
+            "Memory Score", "Stress Level", "Study Duration (minutes)",
+            "Study Duration (hours)", "Preferred Study Time", "Exam Fear",
+            "Memory Score (1-5)", "Stress Level (1-5)", "Exam Fear (Yes/No)"
+        )
+    ]
+
     if not subject_cols:
-        return pd.DataFrame(columns=["StudyDurationMinutes","AvgScore","Roll No","Name"])
+        return pd.DataFrame(columns=["StudyDurationMinutes", "AvgScore", "Roll No", "Name"])
+
+    # Compute average marks for each student
     def avg_row(r):
-        vals = [r[c] for c in subject_cols if pd.notna(r.get(c))]
-        return float(sum(vals)/len(vals)) if vals else 0.0
+        vals = [pd.to_numeric(r[c], errors="coerce") for c in subject_cols if pd.notna(r.get(c))]
+        vals = [v for v in vals if not pd.isna(v)]
+        return float(np.mean(vals)) if vals else 0.0
+
+    # Prepare cleaned DataFrame
     out = pd.DataFrame()
     out["Roll No"] = df["Roll No"]
     out["Name"] = df["Name"]
+
+    # Convert study duration to numeric minutes (handling both hours/min)
     if "Study Duration (minutes)" in df.columns:
-        out["StudyDurationMinutes"] = pd.to_numeric(df["Study Duration (minutes)"], errors="coerce").fillna(0)
+        out["StudyDurationMinutes"] = pd.to_numeric(df["Study Duration (minutes)"], errors="coerce").fillna(np.nan)
     elif "Study Duration (hours)" in df.columns:
-        out["StudyDurationMinutes"] = pd.to_numeric(df["Study Duration (hours)"], errors="coerce").fillna(0) * 60
+        out["StudyDurationMinutes"] = pd.to_numeric(df["Study Duration (hours)"], errors="coerce").fillna(np.nan) * 60
     else:
-        out["StudyDurationMinutes"] = 0
+        out["StudyDurationMinutes"] = np.nan
+
+    # Filter out invalid/zero/negative values
+    out = out[out["StudyDurationMinutes"] > 0]
+
+    # Compute average score
     out["AvgScore"] = df.apply(avg_row, axis=1)
-    return out
+
+    return out.dropna(subset=["StudyDurationMinutes", "AvgScore"])
+
 
 def personalized_study_advice(student_row):
     adv = {}

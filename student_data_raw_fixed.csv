@@ -1,0 +1,31 @@
+Roll No,Name,Class,Exam,Attendance(%),Math,Science,English,History,Memory Score(1-5),Stress Level(1-5),Study Duration(min),Preferred Study Time,Exam Fear
+1,Aditi,10B,Final,60.0,,92.0,33.0,52.0,5.0,5.0,60.0,Morning,no
+2,Rahul,9A,Final,,74.0,50.0,100.0,54.0,1.0,2.0,20.0,Evening,maybe
+3,Priya,9b,,89.0,89.0,0.0,34.0,96.0,,3.0,30.0,Afternoon,No
+4,Amit,11B,Term-2,77.0,94.0,0.0,56.0,89.0,5.0,5.0,60.0,Nan,no
+5,Sneha,11b,Midterm,81.0,100.0,41.0,0.0,36.0,1.0,4.0,,Night,maybe
+6,Karan,11B,Midterm,,86.0,67.0,85.0,45.0,1.0,,,Evening,no
+7,Neha,11B,Midterm,100.0,85.0,77.0,85.0,78.0,2.0,5.0,,Evening,maybe
+8,Vikram,11a,Final,86.0,39.0,82.0,57.0,15.0,2.0,3.0,20.0,Nan,Yes
+9,Pooja,10B,,82.0,87.0,68.0,80.0,69.0,,1.0,30.0,Morning,maybe
+10,Ravi,9b,Term 1,99.0,95.0,92.0,51.0,37.0,2.0,1.0,75.0,Night,Yes
+11,Sara,9A,Term 1,95.0,70.0,0.0,0.0,92.0,4.0,5.0,90.0,Morning,Yes
+12,Anil,11A,,69.0,82.0,45.0,40.0,95.0,,5.0,45.0,Nan,no
+13,Tina,9b,,71.0,37.0,86.0,84.0,45.0,1.0,3.0,60.0,Morning,
+14,Deepak,10b,Final,60.0,49.0,0.0,83.0,62.0,4.0,2.0,90.0,Morning,maybe
+15,Lina,11A,Final,76.0,40.0,32.0,95.0,68.0,5.0,,30.0,Evening,
+16,Harish,9B,Final,61.0,37.0,85.0,0.0,0.0,,1.0,,Evening,Yes
+17,Gaurav,10b,Term-2,100.0,88.0,47.0,56.0,46.0,2.0,3.0,,Night,YES
+18,Nisha,9B,Term 1,69.0,57.0,61.0,34.0,72.0,1.0,2.0,45.0,Afternoon,no
+19,Rohan,Nan,Midterm,73.0,69.0,95.0,72.0,48.0,3.0,2.0,,Morning,maybe
+20,Divya,9B,Final,97.0,32.0,73.0,90.0,0.0,,2.0,60.0,Morning,Yes
+21,Mohan,11B,Term 1,87.0,53.0,0.0,55.0,42.0,,5.0,,Night,YES
+22,Kavya,11B,Term-2,68.0,78.0,33.0,37.0,84.0,2.0,,,Morning,no
+23,Ritu,9A,Term 1,97.0,,38.0,90.0,29.0,2.0,5.0,60.0,Night,Yes
+24,Arjun,9a,,77.0,81.0,40.0,87.0,86.0,3.0,2.0,,Evening,Yes
+25,Isha,11B,,75.0,69.0,85.0,33.0,41.0,,,30.0,Evening,
+26,Naveen,,Term-2,95.0,64.0,0.0,96.0,45.0,3.0,2.0,20.0,Evening,No
+27,Geeta,11a,Final,61.0,66.0,49.0,86.0,85.0,,2.0,20.0,Afternoon,YES
+28,Suman,NAN,,70.0,62.0,93.0,53.0,89.0,4.0,4.0,90.0,Nan,no
+29,Varun,11A,Final,,75.0,46.0,35.0,53.0,1.0,,30.0,Evening,YES
+30,Meena,11B,,99.0,68.0,88.0,41.0,0.0,,,30.0,Evening,Yes
