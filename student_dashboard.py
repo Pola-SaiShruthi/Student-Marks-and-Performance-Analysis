@@ -14,7 +14,7 @@ st.set_page_config(page_title="Student Performance Dashboard", layout="wide")
 
 # ---------- Load data ----------
 try:
-    df = load_data(r"D:\DAV(py)\PBL_DAV\student_data_raw_fixed.csv")
+    df = load_data("student_data_raw_fixed.csv")
 except FileNotFoundError as e:
     st.error(str(e))
     st.stop()
